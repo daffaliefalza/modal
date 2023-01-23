@@ -1,3 +1,3 @@
 # Modal Project
 
-### <a href="https://daffaliefalza/github.io/modal">Live site</a>
+### <a href="https://daffaliefalza.github.io/modal">Live site</a>
